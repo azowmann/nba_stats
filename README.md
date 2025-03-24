@@ -1,7 +1,7 @@
 # NBA Player Statistics ETL Pipeline
 
 ## Overview
-This project is an ETL (Extract, Transform, Load) pipeline that fetches NBA player statistics from the [RAPIDAPI NBA API](https://api-nba-v1.p.rapidapi.com/), processes the data, and stores it in a MySQL database.
+This project is an ETL (Extract, Transform, Load) pipeline that fetches NBA player statistics from the [RAPIDAPI NBA API](https://rapidapi.com/api-sports/api/api-nba), processes the data, and stores it in a MySQL database.
 
 ## Features
 - Fetches player statistics via an API request.
