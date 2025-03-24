@@ -66,6 +66,7 @@ CREATE TABLE IF NOT EXISTS player_averages (
     avg_assists FLOAT,
     total_games INT
 );
+```
 
 ## Error Handling
 - API request errors (e.g., HTTP errors, timeout, or connection issues) are logged.
