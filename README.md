@@ -31,11 +31,8 @@ Before running the project, ensure you have the following:
    git clone https://github.com/your-repo/nba-stats-etl.git
    cd nba-stats-etl
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Set up your `.env` file with the following variables:
+   
+2. Set up your `.env` file with the following variables:
    ```env
    RAPIDAPI_KEY=your_rapidapi_key
    HOST=your_mysql_host
